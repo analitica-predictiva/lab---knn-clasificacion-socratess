@@ -41,6 +41,7 @@ def pregunta_01():
     return knn.score(X, y)
 
 
+
 def pregunta_02():
     """
     Complete el código presentado a continuación.
